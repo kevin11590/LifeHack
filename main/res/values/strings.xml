@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LifeHackApp</string>
+    <string name="main_title">Life Hack or Myth?</string>
+    <string name="main_subtitle">Test your knowledge of life hacks!</string>
+    <string name="button_start">Start</string>
+    <string name="button_hack">Hack (True)</string>
+    <string name="button_myth">Myth (False)</string>
+    <string name="button_next">Next</string>
+    <string name="button_review">Review</string>
+    <string name="correct_feedback">Correct! 🎉\n%1$s</string>
+    <string name="wrong_feedback">Wrong! ❌\n%1$s</string>
+    <string name="score_format">Score: %1$d / %2$d\n%3$s</string>
+    <string name="master_hacker">Master Hacker! 💪</string>
+    <string name="keep_practising">Keep practising!</string>
+    <string name="review_item_format">%1$s\nAnswer: %2$s\n</string>
+    <string name="hack">Hack</string>
+    <string name="myth">Myth</string>
+
+    <string-array name="questions">
+        <item>Cracking your knuckles causes arthritis</item>
+        <item>Chewing gum stays in your stomach for seven years</item>
+        <item>Drinking warm milk helps you fall asleep faster</item>
+        <item>Reading in low light permanently damages your eyesight</item>
+        <item>Using the \'2-minute rule\' stops procrastination</item>
+    </string-array>
+
+    <string-array name="explanations">
+        <item>Myth: It\'s just gas bubbles bursting in the joint fluid; it doesn\'t cause arthritis.</item>
+        <item>Myth: While the base isn\'t digestible, it passes through your system at the same speed as food.</item>
+        <item>Hack: Milk contains tryptophan and the psychological comfort can act as a natural sedative.</item>
+        <item>Myth: It can cause temporary eye strain or headache, but it doesn\'t lead to permanent damage.</item>
+        <item>Hack: If a task takes less than 2 minutes, doing it immediately prevents a backlog of small chores.</item>
+    </string-array>
+</resources>
